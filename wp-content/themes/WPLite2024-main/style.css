@@ -1,0 +1,23 @@
+/* * * * * * * * * *
+Theme Name: WPLite 2024
+Theme URI: 
+Author: Aamir Hussain
+Author URI: 
+Description: WPLite 2024
+Text Domain: wpl
+Version: 4.0
+Version Date: 12 Jul, 2024
+* * * * * * * * * */
+
+.logo {
+    max-height: 90px;
+}
+
+.meta-info label {
+    display: none;
+}
+
+.wpl-social-links ul li {
+    float: left;
+    margin: 0 5px;
+}
